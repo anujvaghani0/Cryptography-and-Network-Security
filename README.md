@@ -27,7 +27,7 @@ Hill Cipher -
 Plaintext = pay
 <br>
 Ciphertext = RRL
-### 2.  [rail Fence & transposition cipher]()
+### 2.  [Rail Fence & Transposition cipher]()
 Implement rail Fence and transposition cipher. Both are permutation cipher.
 Analyze the strength of the cipher in terms of crypt analysis.
 <br>
@@ -78,7 +78,7 @@ and ф(37). Observe the value and analyze the behavior of totient function.
 ### 8. [Euclidean Algorithm]()
 Implement extended Euclidean Algorithm for finding inverse.
 
-### 9. [RSA algorithm]()
+### 9. [RSA Algorithm]()
 Implement RSA algorithm.
 <br>
 Take two prime numbers p, q
