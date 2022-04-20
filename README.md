@@ -1,6 +1,5 @@
 <div align="center">
         <h1>Practical List 📃</h1>
-Java that illustrate basic cryptography concepts based on Coursera Standford Cryptography.
         </div>
 
 ### 1. [Caesar & Hill Ciphers](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/CaesarCipher.java)
