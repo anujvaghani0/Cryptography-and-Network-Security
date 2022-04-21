@@ -55,13 +55,13 @@ Plaintext = ar mu hs ea
 <br>
 Ciphertext = RM CM BP IM
 
-### 4. [Vigenere Cipher]()
+### 4. [Vigenere Cipher](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/vgenereCipher.java)
  Write a program to implement Vigenere Cipher..
 
 ### 5. [Vernam Cipher](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/vernamCipher.java)
  Write a program to implement Vernam Cipher.
 
-### 6. [GCD]()
+### 6. [GCD](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/GCD.java)
 Implement Euclid algorithm to find GCD.
 <br>
 GCD(16,12) = 4
@@ -70,15 +70,15 @@ GCD(12,4) = 0
 <br>
 Then 4 is the GCD(16,12) 
 
-### 7. [ Euler’s totient]()
+### 7. [ Euler’s totient](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/eulersTotient.java)
 Implement Euler’s totient function ф(n). It is defined as the number of positive
 integers less than n and relatively prime to n. Find ф(35)
 and ф(37). Observe the value and analyze the behavior of totient function.
 
-### 8. [Euclidean Algorithm]()
+### 8. [Euclidean Algorithm](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/euclideanAlgorithm.java)
 Implement extended Euclidean Algorithm for finding inverse.
 
-### 9. [RSA Algorithm]()
+### 9. [RSA Algorithm](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/RSA.java)
 Implement RSA algorithm.
 <br>
 Take two prime numbers p, q
