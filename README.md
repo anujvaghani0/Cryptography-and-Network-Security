@@ -45,7 +45,7 @@ Plaintext: attackpostponeduntiltwoam
 <br>
 Ciphertext: TTNAAPTMTSUOAODWCOIXKNLYPETZ
 
-### 3. [Playfair Cipher]()
+### 3. [Playfair Cipher](https://github.com/anujvaghani0/Cryptography-and-Network-Security/blob/main/playfairCipher.java)
 Implement Playfair Cipher. The plaintext is paired in two characters. Discuss the
 advantage of polyalphabetic cipher over monoalphabetic cipher.
 <br>
